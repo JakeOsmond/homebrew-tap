@@ -1,8 +1,8 @@
 class BmadQuickSetup < Formula
   desc "One command to create a BMAD project, install it, and open Claude"
   homepage "https://github.com/JakeOsmond/bmad-quick-setup"
-  url "https://github.com/JakeOsmond/bmad-quick-setup/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "e70050b77e92a3de3919afb3a5d5cc37aa7386e3b0611d66c1458d3973500a13"
+  url "https://github.com/JakeOsmond/bmad-quick-setup/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "6b2c8f8f6827b82d45b54ed537cd1d3698b3f107d3326990ca082130cadb1b67"
   license "MIT"
 
   depends_on "node"
